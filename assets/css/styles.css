@@ -1,0 +1,305 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+.red-bc {
+  background-color: #f72210;
+}
+
+.white-tx {
+  color: white;
+}
+
+.red-tx {
+  color: #f72210;
+}
+
+.blue-tx {
+  color: #3581f4;
+}
+
+.posit-rel {
+  position: relative;
+}
+
+.tx-left {
+  text-align: left!important;
+}
+
+.some-padding-b {
+  padding-bottom: 10px; 
+}
+
+.date {
+  text-decoration: none;
+  font-size: 14px;
+  padding-top: 52px;
+}
+
+.navbar-logo {
+  font-size: 67px;
+  font-weight: bold;
+  font-family: 'Roboto Slab', serif;
+}
+
+.nav-sig-sub {
+  font-size: 18px;
+  padding-top: 52px;
+  font-weight: bold;
+}
+
+.nav-subs {
+  color: #f72210;
+  padding: 1px 5px;
+  background-color: white;
+}
+
+.nav-subs span {
+  font-size: 20px;
+}
+
+.navbar-second {
+  margin-top: 116px;
+  border-bottom: 1px solid #80808029;
+}
+
+.navbar-ul {
+  width: 80%;
+  margin-top: 5px;
+}
+
+.navbar-second-link {
+  color: black;
+  font-weight: bolder;
+  font-size: 1.1em;
+  padding: 10px 16px;
+}
+
+.navbar-second-link-s {
+  position: relative;
+  color: #80808073;
+  top: -4px;
+  font-size: 21px;
+}
+
+.nav-input-search {
+  padding-left: 10px;
+  width: 70px;
+  border:none;
+}
+
+.navbar-second-icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+    width: 12%;
+    background-color: #f72210;
+    border-left: 12px solid white;
+    border-top: 13px solid #f72210
+}
+
+.block-title {
+  color: rgba(3,3,3,.4);
+  padding-bottom: 11px;
+  text-transform: uppercase;
+  padding-top: 11px;
+  font-weight: bold;
+}
+
+.main-row-img-1 img{
+  width: 100%;
+}
+
+.category {
+  display: block;
+  text-transform: uppercase;
+  padding: 8px 15px 9px;
+  background-color: rgba(255,255,255,.9);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  font-weight: bold;
+}
+
+.blue-article {
+  border: 1px solid #8080802b;
+  margin-bottom: 14px;
+}
+
+.main-row-txt-1 h2 {
+  line-height: 0.7;
+}
+
+.main-row-txt-1 a {
+  color: black;
+  font-weight: 700;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.main-row-txt-1 p {
+  text-align: justify;
+  font-size: 14px;
+}
+
+.main-row-relates h3 {
+  line-height: 1;
+  font-size: 17px;
+}
+
+.main-row-relates a {
+  font-size: 16px;
+  color: black;
+  font-weight: bold;
+}
+
+.culture-stories {
+  background-color: #f4f5f7;
+  margin-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.culture-items {
+  display: flex;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.culture-item {
+  width: 50%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.main-row-txt-culture h2 {
+  line-height: 0.7;
+}
+
+.main-row-txt-culture a {
+  color: #000000ad;
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+.main-row-txt-culture p {
+  color: #00000063;
+  font-size: 15px;
+}
+
+.social-tag {
+  padding-bottom: 10px;
+}
+
+.social-tag a {
+  color: black;
+  background-color: #c2d4d7;
+  padding-left: 6px;
+  padding-right: 6px;
+  margin-right: 6px;
+  margin-bottom: 6px;
+  font-size: 14px;
+}
+
+.more-stories article{
+  display: flex;
+}
+
+.more-img {
+  width: 50%;
+}
+
+.more-sumary {
+  padding: 1px 5px;
+}
+
+.more-sumary h3 {
+  line-height: 0.7;
+}
+
+.more-sumary a {
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.more-sumary p {
+  color: black;
+  font-size: 13px;
+}
+
+.opinion-stories article{
+  display: flex;
+}
+
+.opinion-sumary {
+  padding: 1px 5px;
+}
+
+.opinion-sumary h3 {
+  line-height: 0.5;
+}
+
+.opinion-sumary a {
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.opinion-sumary p {
+  color: #555;
+  font-size: 13px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 1px;
+}
+
+.hr-opinion {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.latest-stories article {
+  display: flex;
+}
+
+.latest-img {
+  width: 50%;
+}
+
+.latest-img img {
+  width: 100px;
+}
+
+.latest-sumary {
+  padding: 1px 5px;
+}
+
+.latest-sumary h3 {
+  line-height: 0.5;
+}
+
+.latest-sumary a {
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.latest-sumary p {
+  color: #555;
+  font-size: 13px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 1px;
+}
+
+.hr-latest {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

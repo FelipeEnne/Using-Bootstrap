@@ -24,7 +24,6 @@
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
-* [Commit Summary](#commit-summary)
 
 
 <!-- ABOUT THE PROJECT -->
@@ -54,8 +53,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-* Felipe Enne - felipeenne@gmail.com <br/>
-* Ricardo Valtierra - ricardo_valtierra@outlook.com
+* Felipe Enne - felipeenne@gmail.com 
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -64,5 +62,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * Microverse.
 
 
-<!-- COMMIT -->
-## Commit Summary
