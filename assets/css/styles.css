@@ -33,6 +33,10 @@ body {
   padding-bottom: 10px; 
 }
 
+.some-magin-b {
+  margin-bottom: 15px; 
+}
+
 .date {
   text-decoration: none;
   font-size: 14px;
@@ -211,10 +215,6 @@ body {
   display: flex;
 }
 
-.more-img {
-  width: 50%;
-}
-
 .more-sumary {
   padding: 1px 5px;
 }
@@ -269,10 +269,6 @@ body {
   display: flex;
 }
 
-.latest-img {
-  width: 50%;
-}
-
 .latest-img img {
   width: 100px;
 }
@@ -302,4 +298,48 @@ body {
 .hr-latest {
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+.main-sign-up {
+  margin: 15px;
+  background-color: #f4f5f6;
+  border:1px solid gray;
+  padding: 20px;
+  display: block;
+}
+
+.main-sign-up-1 {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.main-sign-up-1-txt {
+  font-weight: bold;
+  padding-left: 15px;
+  text-transform: uppercase;
+}
+
+.main-sign-up-2 {
+  margin-bottom: 15px;
+}
+
+.main-sign-up-2 a {
+  padding: 10px 10px 10px 12px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 18px;
+  background-color: #666;
+  text-transform: uppercase;
+}
+
+.main-sign-up-3 a {
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  font-weight: bold;
+}
+
+.blue-article .main-row-txt-1 {
+  padding: 10px;
 }

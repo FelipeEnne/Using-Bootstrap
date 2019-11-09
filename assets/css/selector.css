@@ -42,3 +42,19 @@
   color: #f72210;
   text-decoration: none;
 }
+
+.latest-sumary a:hover {
+  color: #f72210;
+  text-decoration: none;
+}
+
+.main-sign-up-2 a:hover {
+  color: white;
+  text-decoration: none;
+  background-color: rgba(102, 102, 102, 0.7);
+}
+
+.main-sign-up-3 a:hover {
+  color: #333;
+  text-decoration: none;
+}
