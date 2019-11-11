@@ -14,8 +14,18 @@
 }
 
 .main-row-txt-1 a:hover {
+  text-decoration-color: #f72210;
+  color: black;
+}
+
+.blue-article .category a:hover{
+  color: #3581f4;
+  text-decoration: none;
+}
+
+.category a:hover{
   color: #f72210;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .main-row-relates a:hover {
@@ -57,4 +67,36 @@
 .main-sign-up-3 a:hover {
   color: #333;
   text-decoration: none;
+}
+
+.all-feature-link a:hover {
+  background-color: #dbdcdd;
+  color: black;
+  text-decoration: none;
+}
+
+.mg-category a:hover {
+  color: #f72210;
+}
+
+.mg-descripition a:hover {
+  text-decoration-color: red;
+  color: black;
+}
+
+.title-main-s a:hover {
+  color: #f72210;
+  text-decoration: none;
+}
+
+.subscribe-end a:hover {
+  color: white;
+  text-decoration: none;
+  background-color: #de1f0e;
+}
+
+.news-end a:hover {
+  color: white;
+  text-decoration: none;
+  background-color: #de1f0e;
 }
