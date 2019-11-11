@@ -5,6 +5,5 @@ files:
     ignore:
         - 'assets/css/reset.css'
         - 'assets/css/mediascreen.css'
-        - 'assets/css/selector.css'
 fixers:
     enable: true
