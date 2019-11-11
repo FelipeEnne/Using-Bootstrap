@@ -21,7 +21,7 @@
   .navbar-second {
     display: none;
   }
-  
+
   .date {
     display: none;
   }
@@ -61,7 +61,7 @@
   .main-first {
     order: 2;
   }
-  
+
   .main-second {
     order: 1;
   }
@@ -79,7 +79,6 @@
     order: 3;
     -webkit-order: 3;
   }
-
 
   #main-2-third {
     order: 2;
@@ -138,7 +137,7 @@
   }
 
   .diblay-b-res {
-    display: block!important;
+    display: block !important;
   }
 
   .footer-icons {

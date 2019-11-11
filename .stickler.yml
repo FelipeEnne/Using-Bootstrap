@@ -1,8 +1,5 @@
 linters:
   stylelint:
     config: 'stylelint.config.js'
-files:
-    ignore:
-        - 'assets/css/reset.css'
 fixers:
     enable: true
