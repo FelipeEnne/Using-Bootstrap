@@ -34,7 +34,7 @@
 
 ##### You can find the original project specification at: https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap
 
-<br><br>
+<br>
 ## Desktop size
 ![Screenshot Image](assets/images/screenshot1.png)
 <br><br>

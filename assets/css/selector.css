@@ -18,11 +18,6 @@
   color: black;
 }
 
-.blue-article .category a:hover {
-  color: #3581f4;
-  text-decoration: none;
-}
-
 .category a:hover {
   color: #f72210;
   text-decoration: none;
@@ -103,5 +98,10 @@
 
 .footer-bottom a:hover {
   color: black;
+  text-decoration: none;
+}
+
+.blue-article .category a:hover {
+  color: #3581f4;
   text-decoration: none;
 }
