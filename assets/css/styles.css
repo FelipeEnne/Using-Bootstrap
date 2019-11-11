@@ -541,3 +541,27 @@ body {
 .footer-icons li{
   padding-left: 10px;
 }
+
+.footer-bottom ul {
+  display: flex;
+  list-style: none;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding:0;
+}
+
+.footer-bottom a {
+  padding: 1px 5px;
+  border-right: 1px solid #6666667a;
+  color: #666;
+}
+
+.footer-bottom-second {
+  font-weight: bold;
+  color: #666;
+  text-align: right;
+}
+
+footer {
+  padding: 20px 20px;
+}
