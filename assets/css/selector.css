@@ -18,12 +18,12 @@
   color: black;
 }
 
-.blue-article .category a:hover{
+.blue-article .category a:hover {
   color: #3581f4;
   text-decoration: none;
 }
 
-.category a:hover{
+.category a:hover {
   color: #f72210;
   text-decoration: none;
 }
