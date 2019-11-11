@@ -562,6 +562,10 @@ body {
   text-align: right;
 }
 
+.burger {
+  display: none;
+}
+
 footer {
   padding: 20px 20px;
 }

@@ -31,11 +31,28 @@
 
 ![Screenshot Image](assets/images/screenshot.png)
 
+####In this project, you’ll get a chance to try out Twitter’s Bootstrap framework by building a site that actually uses it – Newsweek (https://www.newsweek.com/).
 
+#####You can find the original project specification at: https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap
 
+<br><br>
+## Desktop size
+![Screenshot Image](assets/images/screenshot1.png)
+<br><br>
+## Tablet size
+![Screenshot Image](assets/images/screenshot2.png)
+<br><br>
+## Mobile size
+![Screenshot Image](assets/images/screenshot3.png)
+<br>
 
 ### Built With 
 
+
+* HTML 
+* CSS3
+* Bootstrap 
+* Github
 
 
 
@@ -44,7 +61,7 @@
 ## Getting Started
 
 
-
+Just clone or download the project and open the index.html in your browser. 
 
 <!-- LICENSE -->
 ## License
