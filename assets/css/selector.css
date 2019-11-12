@@ -1,0 +1,111 @@
+.nav-subs:hover {
+  color: #f72210;
+  text-decoration: none;
+}
+
+.navbar-second-link:hover {
+  color: #f72210;
+  text-decoration: none;
+}
+
+.main-row-img-1 a:hover {
+  color: #f72210;
+  text-decoration: none;
+}
+
+.main-row-txt-1 a:hover {
+  text-decoration-color: #f72210;
+  color: black;
+}
+
+.category a:hover {
+  color: #f72210;
+  text-decoration: none;
+}
+
+.main-row-relates a:hover {
+  color: #f72210;
+  text-decoration: none;
+}
+
+.main-row-txt-culture a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.social-tag a:hover {
+  background-color: #272727;
+  color: #c2d4d7;
+  text-decoration: none;
+}
+
+.more-sumary a:hover {
+  color: #f72210;
+}
+
+.opinion-sumary a:hover {
+  color: #f72210;
+  text-decoration: none;
+}
+
+.latest-sumary a:hover {
+  color: #f72210;
+  text-decoration: none;
+}
+
+.main-sign-up-2 a:hover {
+  color: white;
+  text-decoration: none;
+  background-color: rgba(102, 102, 102, 0.7);
+}
+
+.main-sign-up-3 a:hover {
+  color: #333;
+  text-decoration: none;
+}
+
+.all-feature-link a:hover {
+  background-color: #dbdcdd;
+  color: black;
+  text-decoration: none;
+}
+
+.mg-category a:hover {
+  color: #f72210;
+}
+
+.mg-descripition a:hover {
+  text-decoration-color: red;
+  color: black;
+}
+
+.title-main-s a:hover {
+  color: #f72210;
+  text-decoration: none;
+}
+
+.subscribe-end a:hover {
+  color: white;
+  text-decoration: none;
+  background-color: #de1f0e;
+}
+
+.news-end a:hover {
+  color: white;
+  text-decoration: none;
+  background-color: #de1f0e;
+}
+
+.footer-bottom a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.nav-sig-sub a:hover {
+  text-decoration: none;
+}
+
+.blue-article .category a:hover {
+  color: #3581f4;
+  text-decoration: none;
+}

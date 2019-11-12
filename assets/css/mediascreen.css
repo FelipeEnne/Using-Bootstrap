@@ -1,0 +1,161 @@
+@media screen and (max-width: 1024px) {
+  .navbar-second-link {
+    font-size: 0.8em;
+    padding: 10px 12px;
+  }
+
+  .main-right-col .main-row-txt-1 a {
+    font-size: 13px;
+  }
+
+  .main-right-col .main-row-txt-1 h2 {
+    line-height: 0.5;
+  }
+}
+
+@media screen and (max-width: 978px) {
+  .burger {
+    display: inline;
+  }
+
+  .navbar-second {
+    display: none;
+  }
+
+  .date {
+    display: none;
+  }
+
+  .nav-img-logo {
+    width: 132px;
+    height: 20px;
+    padding: 0;
+  }
+
+  .nav-sig-sub {
+    padding-top: 1px;
+  }
+
+  main {
+    padding-top: 54px;
+  }
+
+  .main-sign-up {
+    margin: 15px 205px;
+  }
+
+  .main-right-col-blue {
+    margin: 1px 205px;
+  }
+
+  .footer-bottom-second {
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .culture-item {
+    width: 100%;
+  }
+
+  .main-first {
+    order: 2;
+  }
+
+  .main-second {
+    order: 1;
+  }
+
+  .main-third {
+    order: 3;
+  }
+
+  #main-2-first {
+    order: 1;
+    -webkit-order: 1;
+  }
+
+  #main-2-second {
+    order: 3;
+    -webkit-order: 3;
+  }
+
+  #main-2-third {
+    order: 2;
+    -webkit-order: 2;
+  }
+
+  .main-sign-up {
+    margin: 15px 50px;
+  }
+
+  .main-right-col-blue {
+    margin: 1px auto;
+  }
+
+  .col-md-4 {
+    margin: 10px 1px;
+  }
+
+  .subscribe-end {
+    display: block;
+  }
+
+  .subscribe-end div {
+    padding: 1px 20px 1px 20px;
+    text-align: center;
+  }
+
+  .img-subscribe {
+    width: 100%;
+  }
+
+  .img-subscribe img {
+    margin-left: 15%;
+    margin-top: 20px;
+  }
+
+  .img-subscribe-txt a {
+    margin-bottom: 20px;
+  }
+
+  .news-end {
+    display: block;
+  }
+
+  .img-news img {
+    width: 100%;
+  }
+
+  .news-end div {
+    padding: 0;
+    border: none;
+  }
+
+  .img-news-txt {
+    text-align: center;
+  }
+
+  .diblay-b-res {
+    display: block !important;
+  }
+
+  .footer-icons {
+    justify-content: flex-start;
+    right: 49px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .nav-sig-sub {
+    font-size: 12px;
+  }
+
+  .burger {
+    width: 30px;
+  }
+
+  .nav-img-logo {
+    width: 115px;
+  }
+}
