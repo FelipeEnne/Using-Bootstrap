@@ -30,7 +30,7 @@
 ## About The Project
 
 
-#### In this project, you’ll get a chance to try out Twitter’s Bootstrap framework by building a site that actually uses it – Newsweek (https://www.newsweek.com/).
+#### In this project, I get a chance to try out Twitter’s Bootstrap framework by building a site that actually uses it – Newsweek (https://www.newsweek.com/).
 
 ##### You can find the original project specification at: https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap
 
