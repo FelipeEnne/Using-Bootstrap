@@ -30,11 +30,11 @@
 ## About The Project
 
 
-#### In this project, I get a chance to try out Twitter’s Bootstrap framework by building a site that actually uses it – <a href="https://www.newsweek.com/">Newsweek</a>.
+#### In this project, I get a chance to try out Twitter’s Bootstrap framework by building a site that actually uses it – <a target="_blank" href="https://www.newsweek.com/">Newsweek</a>.
 
-##### You can find the original project specification <a href="https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap/">here</a>.
+##### You can find the original project specification <a target="_blank" href="https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap/">here</a>.
 
-##### <a href="https://felipeenne.github.io/Using-Bootstrap/">Live demo</a>.
+##### <a target="_blank" href="https://felipeenne.github.io/Using-Bootstrap/">Live demo</a>.
 <br>
 
 ## Desktop size
@@ -71,8 +71,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Felipe Enne Mendes Ribeiro
 * Email - felipeenne@gmail.com
-* <a href="https://www.linkedin.com/in/felipe-enne/">LinkedIn</a>
-<a href="https://felipeenne.com/">Portfolio</a>
+* <a href="https://www.linkedin.com/in/felipe-enne/" target="_blank">LinkedIn</a>
+* <a href="https://felipeenne.com/" target="_blank">Portfolio</a>
 
 
 
