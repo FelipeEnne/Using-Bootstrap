@@ -19,7 +19,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [Built With](#built-with)
 * [Getting Started](#getting-started)
 * [License](#license)
 * [Contact](#contact)
@@ -30,10 +30,11 @@
 ## About The Project
 
 
-#### In this project, I get a chance to try out Twitter’s Bootstrap framework by building a site that actually uses it – Newsweek (https://www.newsweek.com/).
+#### In this project, I get a chance to try out Twitter’s Bootstrap framework by building a site that actually uses it – <a href="https://www.newsweek.com/">Newsweek</a>.
 
-##### You can find the original project specification at: https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap
+##### You can find the original project specification <a href="https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap/">here</a>.
 
+##### <a href="https://felipeenne.github.io/Using-Bootstrap/">Live demo</a>.
 <br>
 
 ## Desktop size
@@ -46,15 +47,13 @@
 ![Screenshot Image](assets/images/screenshot3.png)
 <br>
 
-### Built With 
+## Built With 
 
 
 * HTML 
 * CSS3
 * Bootstrap 
 * Github
-
-
 
 
 <!-- GETTING STARTED -->
@@ -70,7 +69,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-* Felipe Enne - felipeenne@gmail.com 
+Felipe Enne Mendes Ribeiro
+* Email - felipeenne@gmail.com
+* <a href="https://www.linkedin.com/in/felipe-enne/">LinkedIn</a>
+<a href="https://felipeenne.com/">Portfolio</a>
+
+
 
 
 <!-- ACKNOWLEDGEMENTS -->
