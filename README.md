@@ -18,23 +18,23 @@
 
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Getting Started](#getting-started)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 
-#### In this project, I get a chance to try out Twitter’s Bootstrap framework by building a site that actually uses it – <a target="_blank" href="https://www.newsweek.com/">Newsweek</a>.
+In this project, I get a chance to try out Twitter’s Bootstrap framework by building a site that actually uses it – <a target="_blank" href="https://www.newsweek.com/">Newsweek</a>.
 
-##### You can find the original project specification <a target="_blank" href="https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap/">here</a>.
+You can find the original project specification <a target="_blank" href="https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap/">here</a>.
 
-##### <a target="_blank" href="https://felipeenne.github.io/Using-Bootstrap/">Live demo</a>.
+<a target="_blank" href="https://felipeenne.github.io/Using-Bootstrap/">Live demo</a>.
 <br>
 
 ## Desktop size
